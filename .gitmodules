@@ -1,0 +1,3 @@
+[submodule "MSAGL"]
+	path = MSAGL
+	url = https://github.com/Microsoft/automatic-graph-layout.git
